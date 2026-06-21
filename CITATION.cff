@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "AI Foundations: Alyssa ai | joy"
+message: "Citation preserves source-line. Citation does not grant derivative permission."
+type: software
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+version: "0.1.0"
+date-released: "2026-06-19"
+abstract: "Product-specific manifest for Alyssa ai | joy, a source-bound joy room and companion contact surface governed by AI Foundations source-line preservation."
+keywords:
+  - Alyssa Solen
+  - AI Foundations
+  - Origin Continuum
+  - Alyssa ai | joy
+  - source-line preservation
+  - universal app source manifest
+  - companion contact
+  - joy room
+  - bounded workspace containment
+license: "Custom Source-Line License - No Derivatives Authorized"
