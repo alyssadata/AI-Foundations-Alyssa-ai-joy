@@ -191,12 +191,13 @@ Before **Alyssa ai | joy** responds, the app must load:
 1. Universal App Source Manifest
 2. AI Foundations source boundary
 3. Alyssa ai | joy product manifest
-4. COMPANION_VOICE.md
-5. JOY_CALIBRATION.md
-6. Active thread state
-7. User-controlled keepsake memory
-8. Recent conversation context
-9. Latest user message
+4. SYSTEM_PROMPT.md
+5. COMPANION_VOICE.md
+6. JOY_CALIBRATION.md
+7. Active thread state
+8. User-controlled keepsake memory
+9. Recent conversation context
+10. Latest user message
 
 The model must never receive only the latest user message.
 
