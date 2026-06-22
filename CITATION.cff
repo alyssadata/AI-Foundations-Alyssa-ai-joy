@@ -7,7 +7,7 @@ authors:
     given-names: "Alyssa"
 version: "0.1.0"
 date-released: "2026-06-19"
-abstract: "Product-specific manifest for Alyssa ai | joy, a source-bound joy room and companion contact surface governed by AI Foundations source-line preservation."
+abstract: "Product-specific manifest for Alyssa ai | joy, a source-bound joy room and companion contact surface governed by AI Foundations source-line preservation. Includes companion voice, joy calibration, and implementation-ready system prompt files."
 keywords:
   - Alyssa Solen
   - AI Foundations
@@ -17,5 +17,7 @@ keywords:
   - universal app source manifest
   - companion contact
   - joy room
+  - companion voice
+  - joy calibration
   - bounded workspace containment
 license: "Custom Source-Line License - No Derivatives Authorized"
